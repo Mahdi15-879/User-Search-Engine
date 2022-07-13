@@ -1,0 +1,17 @@
+.History {
+  width: 85%;
+  margin: 3rem auto;
+}
+
+.History div > * {
+  font-size: 1.3rem;
+  text-decoration: none;
+  color: rgb(13, 158, 237);
+  font-weight: 400;
+}
+
+.History div:not(:last-child) {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid rgb(34, 106, 222);
+  padding-bottom: 1rem;
+}

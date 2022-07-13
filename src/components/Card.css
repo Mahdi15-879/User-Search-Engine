@@ -4,11 +4,10 @@
 
 .Card-content {
   width: 85%;
-  margin: auto;
+  margin: 3rem auto;
   border: 1px solid #2c2cdec2;
   border-radius: 10px;
   padding: 2rem;
-  margin-bottom: 3rem;
 }
 
 .Card__header {
