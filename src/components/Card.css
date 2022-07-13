@@ -61,3 +61,14 @@
 .Card__body:not(:last-child) {
   margin-bottom: 0.5rem;
 }
+
+@media only screen and (max-width: 768px) {
+  .Card__header {
+    flex-direction: column;
+  }
+
+  .Card__header-img {
+    width: 70%;
+    margin-bottom: 1.5rem;
+  }
+}
