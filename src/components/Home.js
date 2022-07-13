@@ -4,6 +4,9 @@ import axios from "axios";
 // Components
 import Card from "./Card";
 
+// Styles
+import "./Home.css";
+
 // SVG
 import Search from "../assets/search.svg";
 
